@@ -11,40 +11,33 @@ In C++, there are some libraries that function on mathematics such as math.h and
  1.Operations
  
    :Division
-   
    :Multiplication
-   
    :Subtraction
-   
    :Addition
-   
    :Exponent
-   
    :Squre Root
    
  2.Trigonometric Functions
  
    :Sin
-   
    :Cos
-   
    :Tan
-   
    :Inverse Of Sin
-   
    :Inverse Of Tan
-   
    :Inverse of Cos
    
  3.Logarithmic Functions
  
    :Log
-   
    :Log with Base 10
    
 # For Developing 
 
 I use C++ As a programming lanuage and Dev C++ Compiler and editor.
+
+# Licence
+
+This project is licensed under the MIT License
  
 
 
