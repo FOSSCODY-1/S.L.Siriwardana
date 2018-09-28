@@ -42,7 +42,9 @@ In C++, there are some libraries that function on mathematics such as math.h and
    
    :Log with Base 10
    
-For Developing I use C++ As a programming lanuage and Dev C++ Compiler and editor.
+# For Developing 
+
+I use C++ As a programming lanuage and Dev C++ Compiler and editor.
  
 
 
